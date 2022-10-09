@@ -7,7 +7,7 @@
 - GUI интерфейс - демонстрация интеграции API c приложением
 
 ### формат запроса
-data = {'keyword': value}
+data = {'req': keyword}
 
 ### запуск приложения
 - pip install requirements.txt
